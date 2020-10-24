@@ -1,0 +1,187 @@
+[
+  {
+    "porodica": "Alliaceae",
+    "name": "Lukovi",
+    "vrste": [
+      {
+        "folderName": "cesnjak",
+        "name": "Češnjak",
+        "latinName": "Allium sativum L.",
+        "food": "lukovica",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "luk",
+        "name": "Luk",
+        "latinName": "Allium cepa L. var. cepa",
+        "food": "lukovica, lažna stabljika i lišće",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "luk_kozjak",
+        "name": "Luk kozjak",
+        "latinName": "Allium cepa L. var. aggregatum",
+        "food": "manje lukovice u skupini",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "luk_vlasac",
+        "name": "Luk vlasac",
+        "latinName": "Allium schoenoprasum L",
+        "food": "mlado lišće",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "poriluk",
+        "name": "Poriluk",
+        "latinName": "Allium ampeloprasum L. ssp. porrum",
+        "food": "lažna stabljika i dio lišća",
+        "numOfImages": 3
+      }
+    ]
+  },
+  {
+    "porodica": "Asparagaceae",
+    "name": "Šparoge",
+    "vrste": [
+      {
+        "folderName": "sparoga",
+        "name": "Šparoga",
+        "latinName": "Asparagus officinalis L.",
+        "food": "mladi izboji",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Poaceae",
+    "name": "Trave",
+    "vrste": [
+      {
+        "folderName": "kukuruz_secerac",
+        "name": "Kukuruz šećerac",
+        "latinName": "Zea mays L. var. saccharata",
+        "food": "sjeme (pšeno) u mliječnoj zrelosti",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Brassicaceae",
+    "name": "Krstašice",
+    "vrste": [
+      {
+        "folderName": "kupus",
+        "name": "Kupus",
+        "latinName": "Brassica oleracea L. var. capitata",
+        "food": "hipetrofirani terminalni pup",
+        "numOfImages": 4
+      },
+      {
+        "folderName": "kelj",
+        "name": "Kelj",
+        "latinName": "Brassica oleracea L. var. sabauda",
+        "food": "hipetrofirani terminalni pup",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "kelj_pupcar",
+        "name": "Kelj pupčar",
+        "latinName": "Brassica oleracea L. var. gemmifera",
+        "food": "postrani pupovi",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "lisnati_kelj",
+        "name": "Lisnati kelj",
+        "latinName": "Brassica oleracea L. var. acephala",
+        "food": "lišće",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "korabica",
+        "name": "Korabica",
+        "latinName": "Brassica oleracea L. var. gongylodes",
+        "food": "zadebljala stabljika i mlado lišće",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "cvjetaca",
+        "name": "Cvjetača",
+        "latinName": "Brassica oleracea L. var. botrytis",
+        "food": "cvat (zametak cvata)",
+        "numOfImages": 1
+      },
+      {
+        "folderName": "brokula",
+        "name": "Brokula",
+        "latinName": "Brassica oleracea L. var. italica",
+        "food": "cvat i vršni dio cvatne stapke, postrani cvatovi",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "kineski_kupus",
+        "name": "Kineski kupus",
+        "latinName": "Brassica rapa L. ssp. pekinensis",
+        "food": "hipertrofirani terminalni pup",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "kineska_rastika",
+        "name": "Kineska raštika (pak-choi)",
+        "latinName": "Brassica rapa L. ssp. chinensis",
+        "food": "rozeta lišća",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "postrna_repa",
+        "name": "Postrna repa",
+        "latinName": "Brassica rapa L. ssp. rapa",
+        "food": "zadebljali hipokotil",
+        "numOfImages": 1
+      },
+      {
+        "folderName": "hren",
+        "name": "Hren",
+        "latinName": "Armoracia rusticana",
+        "food": "zadebljali podanak",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "rotkvica",
+        "name": "Rotkvica",
+        "latinName": "Raphanus sativus L. var. sativus",
+        "food": "zadebljali hipokotil",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "rotkva",
+        "name": "Rotkva",
+        "latinName": "Raphanus sativus L. var. niger",
+        "food": "zadebljali hipokotil",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "riga",
+        "name": "Riga",
+        "latinName": "Eruca sativa",
+        "food": "lišće",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "potocarka",
+        "name": "Potočarka",
+        "latinName": "Nasturtium officinale",
+        "food": "lišće",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "kres_salata",
+        "name": "Kres salata",
+        "latinName": "Lepidium sativum L.",
+        "food": "lišće – nadzemni dio biljke u fazi kotiledona",
+        "numOfImages": 2
+      }
+    ]
+  }
+]
