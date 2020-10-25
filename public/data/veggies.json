@@ -183,5 +183,421 @@
         "numOfImages": 2
       }
     ]
+  },
+  {
+    "porodica": "Solanaceae",
+    "name": "Pomoćnice",
+    "vrste": [
+      {
+        "folderName": "rajcica",
+        "name": "Rajčica",
+        "latinName": "Solanum lycopersicon",
+        "food": "plod – mesnata boba u tehnološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "patlidzan",
+        "name": "Pastlidžan",
+        "latinName": "Solanum melongena",
+        "food": "plod – mesnata boba u tehnološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "paprika",
+        "name": "Paprika",
+        "latinName": "Capsicum annuum L. var. macrocarpum",
+        "food": "plod – šuplja boba u tehnološkoj i fiziološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "feferon",
+        "name": "Feferon",
+        "latinName": "Capsicum annuum L. var. microcarpum",
+        "food": "plod – šuplja boba u tehnološkoj i fiziološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "krumpir",
+        "name": "Krumpir",
+        "latinName": "Solanum tuberosum",
+        "food": "gomolj",
+        "numOfImages": 3
+      }
+    ]
+  },
+  {
+    "porodica": "Convolvulaceae",
+    "name": "Slakovi",
+    "vrste": [
+      {
+        "folderName": "batat",
+        "name": "Batat",
+        "latinName": "Ipomoea batatas",
+        "food": "zadebljali korijen",
+        "numOfImages": 3
+      }
+    ]
+  },
+  {
+    "porodica": "Cucurbitaceae",
+    "name": "Tikvenjače",
+    "vrste": [
+      {
+        "folderName": "lubenica",
+        "name": "Lubenica",
+        "latinName": "Citrullus lanatus L. var. vulgaris",
+        "food": "plod- peponis u tehnološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "krastavac",
+        "name": "Krastavac",
+        "latinName": "Cucumis sativus L.",
+        "food": "plod- peponis u tehnološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "dinja",
+        "name": "Dinja",
+        "latinName": "Cucumis melo L.",
+        "food": "plod- peponis u fiziološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "tikvica_buca",
+        "name": "Tikvica/Buča",
+        "latinName": "Cucurbita pepo L. convar. giromontiina",
+        "food": "plod- peponis u fiziološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "zvjezdasta_tikvica",
+        "name": "Zvjezdasta tikvica",
+        "latinName": "Cucurbita pepo L. convar. patissonia",
+        "food": "peponis u tehnološkoj zrelosti",
+        "numOfImages": 4
+      },
+      {
+        "folderName": "meksicki_krastavac",
+        "name": "Meksički krastavac",
+        "latinName": "Sechium edule",
+        "food": "peponis u tehnološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "bundeva",
+        "name": "Bundeva",
+        "latinName": "Cucurbita maxima",
+        "food": "peponis u fiziološkoj zrelosti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "bundeva_secerka_muskatna_tikva",
+        "name": "Bundeva šećerka/Muškatna tikva",
+        "latinName": "Cucurbita moschata",
+        "food": "peponis u fiziološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "kivano",
+        "name": "Kivano",
+        "latinName": "Cucumis metuliferus",
+        "food": "peponis u fiziološkoj zrelosti",
+        "numOfImages": 3
+      }
+    ]
+  },
+  {
+    "porodica": "Asteraceae",
+    "name": "Glavočike",
+    "vrste": [
+      {
+        "folderName": "salata_glavatica",
+        "name": "Salata glavatica",
+        "latinName": "Lactuca sativa L. var. capitata",
+        "food": "lišće u glavici",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "lisnata_salata",
+        "name": "Lisnata salata",
+        "latinName": "Lactuca sativa L. var. crispa",
+        "food": "lišće u rozeti",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "dugolisna_salata",
+        "name": "Dugolisna salata",
+        "latinName": "Lactuca sativa L. var. romana",
+        "food": "lišće u rozeti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "sirokolisna_endivija",
+        "name": "Širokolisna endivija",
+        "latinName": "Cichorium endivia L. var. latifolium",
+        "food": "lišće u rozeti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "kudrava_endivija",
+        "name": "Kudrava endivija",
+        "latinName": "Cichorium endivia L. var. crispum",
+        "food": "lišće u rozeti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "radic",
+        "name": "Radič",
+        "latinName": "Cichorium intybus var. foliosum",
+        "food": "lišće u glavici ili rozeti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "radic_witlof",
+        "name": "Radič witlof (pospješeni radič)",
+        "latinName": "Cichorium intybus var. foliosum",
+        "food": "lišće u glavici ili rozeti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "bijeli_korijen",
+        "name": "Bijeli korijen",
+        "latinName": "Tragopogon porrifolius",
+        "food": "zadebljali korijen",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "articoka",
+        "name": "Artičoka",
+        "latinName": "Cynara scolymus L.",
+        "food": "cvat",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "cicoka",
+        "name": "Čičoka",
+        "latinName": "Helianthus tuberosus L.",
+        "food": "gomolj",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "crni_korijen",
+        "name": "Crni korijen",
+        "latinName": "Scorzonera hispanica",
+        "food": "zadebljali korijen",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "karda",
+        "name": "Karda",
+        "latinName": "Cynara cardunculus L.",
+        "food": "peteljke mlađih listova",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Apiaceae",
+    "name": "Štitarke",
+    "vrste": [
+      {
+        "folderName": "mrkva",
+        "name": "Mrkva",
+        "latinName": "Daucus carota L.",
+        "food": "zadebljali korijen",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "persin",
+        "name": "Peršin",
+        "latinName": "Petroselinum crispum Mill.",
+        "food": "zadebljali korijen i lišće",
+        "numOfImages": 4
+      },
+      {
+        "folderName": "pastrnjak",
+        "name": "Pastrnjak",
+        "latinName": "Pastinaca sativa L.",
+        "food": "zadebljali korijen",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "celer_listas",
+        "name": "Celer listaš",
+        "latinName": "Apium graveolens var. secalinum",
+        "food": "lišće",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "celer_korjenas",
+        "name": "Celer korjenaš",
+        "latinName": "Apium graveolens var. rapaceum",
+        "food": "lišće i zadebljali korijen",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "celer_rebras",
+        "name": "Celer rebraš",
+        "latinName": "Apium graveolens var. dulce",
+        "food": "lišće i lisna peteljke",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "slatki_komorac",
+        "name": "Slatki komorač",
+        "latinName": "Foeniculum vulgare var. azoricum",
+        "food": "lisni rukavci i mlado lišće",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "kopar",
+        "name": "Kopar",
+        "latinName": "Anethum graveolens var. hortorum",
+        "food": "lišće i cvatovi",
+        "numOfImages": 3
+      }
+    ]
+  },
+  {
+    "porodica": "Fabaceae",
+    "name": "Lepirnjače",
+    "vrste": [
+      {
+        "folderName": "grasak",
+        "name": "Grašak",
+        "latinName": "Pisum sativum L. ssp. sativum",
+        "food": "sjemenke i mahune (grašak šećerac) u tehnološkoj zrelosti",
+        "numOfImages": 4
+      },
+      {
+        "folderName": "grah",
+        "name": "Grah",
+        "latinName": "Phaseolus vulgaris L. ssp. vulgaris",
+        "food": "sjemenke u tehnološkoj i fiziološkoj zrelosti i mahune u tehnološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "bob",
+        "name": "Bob",
+        "latinName": "Vicia faba L.",
+        "food": "sjemenke i mahune u tehnološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "grah_metras",
+        "name": "Grah metraš",
+        "latinName": "Vigna unguiculata ssp. sesquipedalis",
+        "food": "mahune u tehnološkoj zrelosti",
+        "numOfImages": 3
+      },
+      {
+        "folderName": "slanutak",
+        "name": "Slanutak",
+        "latinName": "Cicer arietinum L.",
+        "food": "sjemenke u fiziološkoj zrelosti",
+        "numOfImages": 4
+      }
+    ]
+  },
+  {
+    "porodica": "Chenopodiaceae",
+    "name": "Lobodnjače",
+    "vrste": [
+      {
+        "folderName": "spinat",
+        "name": "Špinat",
+        "latinName": "Spinacea oleracea L.",
+        "food": "lišće",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "lisnata_blitva",
+        "name": "Lisnata blitva",
+        "latinName": "Beta vulgaris L. ssp. vulgaris var. cicla",
+        "food": "lišće",
+        "numOfImages": 1
+      },
+      {
+        "folderName": "blitva_rebrasica",
+        "name": "Blitva rebrašica",
+        "latinName": "Beta vulgaris L. ssp. vulgaris var. flavescens",
+        "food": "lišće",
+        "numOfImages": 1
+      },
+      {
+        "folderName": "cikla",
+        "name": "Cikla",
+        "latinName": "Beta vulgaris var. conditiva Alef.",
+        "food": "zadebljali hipokotil",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "vrtna_loboda",
+        "name": "Vrtna loboda",
+        "latinName": "Atriplex hortensis L.",
+        "food": "lišće",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Polygonaceae",
+    "name": "Dvornici",
+    "vrste": [
+      {
+        "folderName": "rabarbara",
+        "name": "Rabarbara",
+        "latinName": "Rheum rhabarbarum L.",
+        "food": "lisna peteljke",
+        "numOfImages": 2
+      },
+      {
+        "folderName": "kiselica",
+        "name": "Kiselica",
+        "latinName": "Rumex acetosa L. var. hortensis",
+        "food": "lišće",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Aizoaceae",
+    "name": "Čupavice",
+    "vrste": [
+      {
+        "folderName": "novozelandski_spinat",
+        "name": "Novozelandski špinat",
+        "latinName": "Tetragonia expansa",
+        "food": "lišće",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Valerianaceae",
+    "name": "Odoljeni",
+    "vrste": [
+      {
+        "folderName": "matovilac",
+        "name": "Matovilac",
+        "latinName": "Valerianella locusta L.",
+        "food": "lišće",
+        "numOfImages": 2
+      }
+    ]
+  },
+  {
+    "porodica": "Malvaceae",
+    "name": "Sljezovi",
+    "vrste": [
+      {
+        "folderName": "bamija",
+        "name": "Bamija",
+        "latinName": "Abelmoschus esculentus L.",
+        "food": "plodovi",
+        "numOfImages": 2
+      }
+    ]
   }
 ]

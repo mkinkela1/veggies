@@ -57,7 +57,7 @@ const App = () => {
   if(veggies.length > 0)
     return (
       <div className="App">
-        <img src={`assets/${veggies[idx].img}`} alt={veggies[idx].sortVal.toString()} />
+        <img src={`assets/${veggies[idx].img}`} alt={veggies[idx].nazivHrv} />
         {
           revealAnswer &&
           <div className="veggie-data">
